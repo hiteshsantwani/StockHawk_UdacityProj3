@@ -100,18 +100,18 @@
         <dex dex="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_ccc181f0db906850ec54968cc79349a4856f06c8.jar" />
     </item>
     <item
-        jar="C:\Users\hitesh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c61d9db2d0b2aa21d5a70a64091d9e4440422d49.jar" />
-    </item>
-    <item
         jar="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
         <dex dex="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_81e878dbadb1a4b6a5eaf193dfc53078226ddbfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\hitesh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c61d9db2d0b2aa21d5a70a64091d9e4440422d49.jar" />
     </item>
     <item
         jar="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
@@ -126,6 +126,13 @@
         revision="23.0.1"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
         <dex dex="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_169c4553dd61db14ee5e9d3b8e58e469e1523797.jar" />
+    </item>
+    <item
+        jar="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\exploded-aar\com.diogobernardino\williamchart\2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="C:\Users\hitesh\AndroidStudioProjects\StockHawk\app\build\intermediates\pre-dexed\debug\com.diogobernardino-williamchart-2.2_ffb115ec0b3ee4b333b7ed060700a12d5041fee5.jar" />
     </item>
     <item
         jar="C:\Users\hitesh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
